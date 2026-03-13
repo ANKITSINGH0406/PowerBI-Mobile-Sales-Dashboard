@@ -59,5 +59,5 @@ These filters help analyze the data dynamically.
 
 - DAX Measures
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 ![Dashboard](images/Mobile_Sales_Dashboard.png)
